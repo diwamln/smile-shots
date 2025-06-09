@@ -85,3 +85,4 @@ Pastikan Anda memiliki perangkat atau emulator yang terhubung.
 ## 📂 Struktur Proyek
 
 Struktur file utama pada proyek ini diorganisir sebagai berikut untuk menjaga kebersihan kode:
+<pre lang="markdown"> <code> ``` lib/ ├── main.dart # Titik masuk utama aplikasi dan navigasi ├── managers/ │ └── camera_manager.dart # Otak aplikasi ├── screens/ │ ├── photo_screen.dart # Mode Photo │ ├── filter_screen.dart # Mode Filter │ ├── game_screen.dart # Mode Game │ └── pro_screen.dart # Mode Pro └── widgets/ └── timer_selector_widget.dart # Widget reusable ``` </code> </pre>
