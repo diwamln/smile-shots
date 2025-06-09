@@ -87,16 +87,13 @@ Pastikan Anda memiliki perangkat atau emulator yang terhubung.
 ```bash
 lib/
 ├── main.dart                   # Titik masuk utama aplikasi dan navigasi
-
 ├── managers/
 │   └── camera_manager.dart     # Otak aplikasi, semua logika kamera & state
-
 ├── screens/
 │   ├── photo_screen.dart       # UI untuk Mode Photo
 │   ├── filter_screen.dart      # UI untuk Mode Filter
 │   ├── game_screen.dart        # UI untuk Mode Game
 │   └── pro_screen.dart         # UI untuk Mode Pro
-
 └── widgets/
     └── timer_selector_widget.dart  # Contoh widget yang bisa digunakan ulang
 ```
