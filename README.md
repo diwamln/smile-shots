@@ -97,3 +97,11 @@ lib/
 └── widgets/
     └── timer_selector_widget.dart  # Contoh widget yang bisa digunakan ulang
 ```
+## 👥 Kontributor
+
+Proyek ini disusun dan dikembangkan oleh **Kelompok 6**:
+
+- **Farhan Fawwaz Saputra** ([2423600048])
+- **Miftakhul Zannah** ([2423600046])
+- **Diwa Maulana Izha** ([2423600044])
+
