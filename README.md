@@ -82,20 +82,21 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
     ```
 Pastikan Anda memiliki perangkat atau emulator yang terhubung.
 
-## 📂 Struktur Proyek
+## 📁 Struktur Proyek
 
-Struktur file utama pada proyek ini diorganisir sebagai berikut untuk menjaga kebersihan kode:
-    ```bash
-    lib/
-├── main.dart # Titik masuk utama aplikasi dan navigasi
+```bash
+lib/
+├── main.dart                   # Titik masuk utama aplikasi dan navigasi
+
 ├── managers/
-│ └── camera_manager.dart # Otak aplikasi, semua logika kamera & state
-├── screens/
-│ ├── photo_screen.dart # UI untuk Mode Photo
-│ ├── filter_screen.dart # UI untuk Mode Filter
-│ ├── game_screen.dart # UI untuk Mode Game
-│ └── pro_screen.dart # UI untuk Mode Pro
-└── widgets/
-└── timer_selector_widget.dart # Contoh widget yang bisa digunakan ulang
+│   └── camera_manager.dart     # Otak aplikasi, semua logika kamera & state
 
-    ```
+├── screens/
+│   ├── photo_screen.dart       # UI untuk Mode Photo
+│   ├── filter_screen.dart      # UI untuk Mode Filter
+│   ├── game_screen.dart        # UI untuk Mode Game
+│   └── pro_screen.dart         # UI untuk Mode Pro
+
+└── widgets/
+    └── timer_selector_widget.dart  # Contoh widget yang bisa digunakan ulang
+```
