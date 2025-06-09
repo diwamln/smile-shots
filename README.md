@@ -14,7 +14,7 @@ SmileShot adalah aplikasi kamera cerdas berbasis Flutter yang dirancang untuk me
 | ![Mode Photo](https://via.placeholder.com/300x600.png?text=Tampilan+Mode+Photo) | ![Mode Filter](https://via.placeholder.com/300x600.png?text=Tampilan+Mode+Filter) |
 | **Mode Game** | **Mode Pro** |
 | ![Mode Game](https://via.placeholder.com/300x600.png?text=Tampilan+Mode+Game) | ![Mode Pro](https://via.placeholder.com/300x600.png?text=Tampilan+Mode+Pro) |
-*(**Catatan**: Ganti URL placeholder di atas dengan screenshot aplikasi Anda yang sebenarnya)*
+
 
 ## ✨ Fitur Utama
 
